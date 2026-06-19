@@ -1,0 +1,981 @@
+Student_ID,Student_Name,Classes_Attended,Attendance_Percentage,Certification
+1,Student_1,31,77.5,Not Certified
+2,Student_2,33,82.5,Certified
+3,Student_3,27,67.5,Not Certified
+4,Student_4,33,82.5,Certified
+5,Student_5,30,75.0,Not Certified
+6,Student_6,27,67.5,Not Certified
+7,Student_7,35,87.5,Certified
+8,Student_8,29,72.5,Not Certified
+9,Student_9,29,72.5,Not Certified
+10,Student_10,33,82.5,Certified
+11,Student_11,29,72.5,Not Certified
+12,Student_12,37,92.5,Certified
+13,Student_13,34,85.0,Certified
+14,Student_14,32,80.0,Certified
+15,Student_15,33,82.5,Certified
+16,Student_16,30,75.0,Not Certified
+17,Student_17,30,75.0,Not Certified
+18,Student_18,30,75.0,Not Certified
+19,Student_19,36,90.0,Certified
+20,Student_20,33,82.5,Certified
+21,Student_21,28,70.0,Not Certified
+22,Student_22,32,80.0,Certified
+23,Student_23,28,70.0,Not Certified
+24,Student_24,33,82.5,Certified
+25,Student_25,33,82.5,Certified
+26,Student_26,27,67.5,Not Certified
+27,Student_27,32,80.0,Certified
+28,Student_28,33,82.5,Certified
+29,Student_29,35,87.5,Certified
+30,Student_30,28,70.0,Not Certified
+31,Student_31,32,80.0,Certified
+32,Student_32,36,90.0,Certified
+33,Student_33,28,70.0,Not Certified
+34,Student_34,31,77.5,Not Certified
+35,Student_35,34,85.0,Certified
+36,Student_36,27,67.5,Not Certified
+37,Student_37,34,85.0,Certified
+38,Student_38,33,82.5,Certified
+39,Student_39,31,77.5,Not Certified
+40,Student_40,35,87.5,Certified
+41,Student_41,37,92.5,Certified
+42,Student_42,30,75.0,Not Certified
+43,Student_43,34,85.0,Certified
+44,Student_44,30,75.0,Not Certified
+45,Student_45,28,70.0,Not Certified
+46,Student_46,32,80.0,Certified
+47,Student_47,34,85.0,Certified
+48,Student_48,36,90.0,Certified
+49,Student_49,32,80.0,Certified
+50,Student_50,31,77.5,Not Certified
+51,Student_51,31,77.5,Not Certified
+52,Student_52,31,77.5,Not Certified
+53,Student_53,33,82.5,Certified
+54,Student_54,31,77.5,Not Certified
+55,Student_55,33,82.5,Certified
+56,Student_56,33,82.5,Certified
+57,Student_57,34,85.0,Certified
+58,Student_58,26,65.0,Not Certified
+59,Student_59,31,77.5,Not Certified
+60,Student_60,32,80.0,Certified
+61,Student_61,34,85.0,Certified
+62,Student_62,34,85.0,Certified
+63,Student_63,32,80.0,Certified
+64,Student_64,30,75.0,Not Certified
+65,Student_65,31,77.5,Not Certified
+66,Student_66,30,75.0,Not Certified
+67,Student_67,32,80.0,Certified
+68,Student_68,34,85.0,Certified
+69,Student_69,32,80.0,Certified
+70,Student_70,33,82.5,Certified
+71,Student_71,32,80.0,Certified
+72,Student_72,33,82.5,Certified
+73,Student_73,35,87.5,Certified
+74,Student_74,35,87.5,Certified
+75,Student_75,34,85.0,Certified
+76,Student_76,32,80.0,Certified
+77,Student_77,35,87.5,Certified
+78,Student_78,33,82.5,Certified
+79,Student_79,29,72.5,Not Certified
+80,Student_80,32,80.0,Certified
+81,Student_81,33,82.5,Certified
+82,Student_82,34,85.0,Certified
+83,Student_83,33,82.5,Certified
+84,Student_84,36,90.0,Certified
+85,Student_85,31,77.5,Not Certified
+86,Student_86,29,72.5,Not Certified
+87,Student_87,30,75.0,Not Certified
+88,Student_88,32,80.0,Certified
+89,Student_89,29,72.5,Not Certified
+90,Student_90,33,82.5,Certified
+91,Student_91,34,85.0,Certified
+92,Student_92,26,65.0,Not Certified
+93,Student_93,32,80.0,Certified
+94,Student_94,31,77.5,Not Certified
+95,Student_95,36,90.0,Certified
+96,Student_96,37,92.5,Certified
+97,Student_97,33,82.5,Certified
+98,Student_98,31,77.5,Not Certified
+99,Student_99,28,70.0,Not Certified
+100,Student_100,35,87.5,Certified
+101,Student_101,33,82.5,Certified
+102,Student_102,33,82.5,Certified
+103,Student_103,34,85.0,Certified
+104,Student_104,34,85.0,Certified
+105,Student_105,29,72.5,Not Certified
+106,Student_106,37,92.5,Certified
+107,Student_107,32,80.0,Certified
+108,Student_108,35,87.5,Certified
+109,Student_109,35,87.5,Certified
+110,Student_110,29,72.5,Not Certified
+111,Student_111,31,77.5,Not Certified
+112,Student_112,33,82.5,Certified
+113,Student_113,34,85.0,Certified
+114,Student_114,33,82.5,Certified
+115,Student_115,32,80.0,Certified
+116,Student_116,36,90.0,Certified
+117,Student_117,36,90.0,Certified
+118,Student_118,31,77.5,Not Certified
+119,Student_119,30,75.0,Not Certified
+120,Student_120,34,85.0,Certified
+121,Student_121,30,75.0,Not Certified
+122,Student_122,33,82.5,Certified
+123,Student_123,35,87.5,Certified
+124,Student_124,32,80.0,Certified
+125,Student_125,30,75.0,Not Certified
+126,Student_126,34,85.0,Certified
+127,Student_127,38,95.0,Certified
+128,Student_128,26,65.0,Not Certified
+129,Student_129,29,72.5,Not Certified
+130,Student_130,30,75.0,Not Certified
+131,Student_131,31,77.5,Not Certified
+132,Student_132,31,77.5,Not Certified
+133,Student_133,36,90.0,Certified
+134,Student_134,36,90.0,Certified
+135,Student_135,31,77.5,Not Certified
+136,Student_136,32,80.0,Certified
+137,Student_137,32,80.0,Certified
+138,Student_138,36,90.0,Certified
+139,Student_139,33,82.5,Certified
+140,Student_140,33,82.5,Certified
+141,Student_141,33,82.5,Certified
+142,Student_142,35,87.5,Certified
+143,Student_143,34,85.0,Certified
+144,Student_144,33,82.5,Certified
+145,Student_145,29,72.5,Not Certified
+146,Student_146,33,82.5,Certified
+147,Student_147,37,92.5,Certified
+148,Student_148,35,87.5,Certified
+149,Student_149,29,72.5,Not Certified
+150,Student_150,33,82.5,Certified
+151,Student_151,35,87.5,Certified
+152,Student_152,35,87.5,Certified
+153,Student_153,30,75.0,Not Certified
+154,Student_154,31,77.5,Not Certified
+155,Student_155,33,82.5,Certified
+156,Student_156,34,85.0,Certified
+157,Student_157,33,82.5,Certified
+158,Student_158,29,72.5,Not Certified
+159,Student_159,29,72.5,Not Certified
+160,Student_160,36,90.0,Certified
+161,Student_161,36,90.0,Certified
+162,Student_162,33,82.5,Certified
+163,Student_163,33,82.5,Certified
+164,Student_164,31,77.5,Not Certified
+165,Student_165,30,75.0,Not Certified
+166,Student_166,31,77.5,Not Certified
+167,Student_167,34,85.0,Certified
+168,Student_168,32,80.0,Certified
+169,Student_169,29,72.5,Not Certified
+170,Student_170,32,80.0,Certified
+171,Student_171,35,87.5,Certified
+172,Student_172,33,82.5,Certified
+173,Student_173,31,77.5,Not Certified
+174,Student_174,33,82.5,Certified
+175,Student_175,31,77.5,Not Certified
+176,Student_176,31,77.5,Not Certified
+177,Student_177,30,75.0,Not Certified
+178,Student_178,34,85.0,Certified
+179,Student_179,31,77.5,Not Certified
+180,Student_180,35,87.5,Certified
+181,Student_181,32,80.0,Certified
+182,Student_182,33,82.5,Certified
+183,Student_183,31,77.5,Not Certified
+184,Student_184,35,87.5,Certified
+185,Student_185,29,72.5,Not Certified
+186,Student_186,30,75.0,Not Certified
+187,Student_187,33,82.5,Certified
+188,Student_188,32,80.0,Certified
+189,Student_189,34,85.0,Certified
+190,Student_190,36,90.0,Certified
+191,Student_191,35,87.5,Certified
+192,Student_192,33,82.5,Certified
+193,Student_193,28,70.0,Not Certified
+194,Student_194,28,70.0,Not Certified
+195,Student_195,35,87.5,Certified
+196,Student_196,36,90.0,Certified
+197,Student_197,30,75.0,Not Certified
+198,Student_198,28,70.0,Not Certified
+199,Student_199,30,75.0,Not Certified
+200,Student_200,34,85.0,Certified
+201,Student_201,35,87.5,Certified
+202,Student_202,32,80.0,Certified
+203,Student_203,31,77.5,Not Certified
+204,Student_204,29,72.5,Not Certified
+205,Student_205,33,82.5,Certified
+206,Student_206,32,80.0,Certified
+207,Student_207,33,82.5,Certified
+208,Student_208,35,87.5,Certified
+209,Student_209,28,70.0,Not Certified
+210,Student_210,34,85.0,Certified
+211,Student_211,34,85.0,Certified
+212,Student_212,34,85.0,Certified
+213,Student_213,36,90.0,Certified
+214,Student_214,34,85.0,Certified
+215,Student_215,32,80.0,Certified
+216,Student_216,30,75.0,Not Certified
+217,Student_217,30,75.0,Not Certified
+218,Student_218,28,70.0,Not Certified
+219,Student_219,31,77.5,Not Certified
+220,Student_220,30,75.0,Not Certified
+221,Student_221,32,80.0,Certified
+222,Student_222,30,75.0,Not Certified
+223,Student_223,32,80.0,Certified
+224,Student_224,33,82.5,Certified
+225,Student_225,33,82.5,Certified
+226,Student_226,27,67.5,Not Certified
+227,Student_227,33,82.5,Certified
+228,Student_228,29,72.5,Not Certified
+229,Student_229,32,80.0,Certified
+230,Student_230,36,90.0,Certified
+231,Student_231,34,85.0,Certified
+232,Student_232,32,80.0,Certified
+233,Student_233,33,82.5,Certified
+234,Student_234,34,85.0,Certified
+235,Student_235,32,80.0,Certified
+236,Student_236,29,72.5,Not Certified
+237,Student_237,33,82.5,Certified
+238,Student_238,32,80.0,Certified
+239,Student_239,28,70.0,Not Certified
+240,Student_240,30,75.0,Not Certified
+241,Student_241,29,72.5,Not Certified
+242,Student_242,29,72.5,Not Certified
+243,Student_243,36,90.0,Certified
+244,Student_244,30,75.0,Not Certified
+245,Student_245,33,82.5,Certified
+246,Student_246,34,85.0,Certified
+247,Student_247,29,72.5,Not Certified
+248,Student_248,35,87.5,Certified
+249,Student_249,34,85.0,Certified
+250,Student_250,31,77.5,Not Certified
+251,Student_251,34,85.0,Certified
+252,Student_252,30,75.0,Not Certified
+253,Student_253,34,85.0,Certified
+254,Student_254,35,87.5,Certified
+255,Student_255,30,75.0,Not Certified
+256,Student_256,27,67.5,Not Certified
+257,Student_257,30,75.0,Not Certified
+258,Student_258,30,75.0,Not Certified
+259,Student_259,30,75.0,Not Certified
+260,Student_260,35,87.5,Certified
+261,Student_261,30,75.0,Not Certified
+262,Student_262,29,72.5,Not Certified
+263,Student_263,30,75.0,Not Certified
+264,Student_264,30,75.0,Not Certified
+265,Student_265,36,90.0,Certified
+266,Student_266,31,77.5,Not Certified
+267,Student_267,35,87.5,Certified
+268,Student_268,33,82.5,Certified
+269,Student_269,27,67.5,Not Certified
+270,Student_270,32,80.0,Certified
+271,Student_271,30,75.0,Not Certified
+272,Student_272,32,80.0,Certified
+273,Student_273,29,72.5,Not Certified
+274,Student_274,32,80.0,Certified
+275,Student_275,32,80.0,Certified
+276,Student_276,35,87.5,Certified
+277,Student_277,32,80.0,Certified
+278,Student_278,35,87.5,Certified
+279,Student_279,32,80.0,Certified
+280,Student_280,30,75.0,Not Certified
+281,Student_281,32,80.0,Certified
+282,Student_282,36,90.0,Certified
+283,Student_283,31,77.5,Not Certified
+284,Student_284,31,77.5,Not Certified
+285,Student_285,33,82.5,Certified
+286,Student_286,34,85.0,Certified
+287,Student_287,33,82.5,Certified
+288,Student_288,31,77.5,Not Certified
+289,Student_289,33,82.5,Certified
+290,Student_290,32,80.0,Certified
+291,Student_291,35,87.5,Certified
+292,Student_292,33,82.5,Certified
+293,Student_293,28,70.0,Not Certified
+294,Student_294,31,77.5,Not Certified
+295,Student_295,34,85.0,Certified
+296,Student_296,32,80.0,Certified
+297,Student_297,28,70.0,Not Certified
+298,Student_298,30,75.0,Not Certified
+299,Student_299,26,65.0,Not Certified
+300,Student_300,35,87.5,Certified
+301,Student_301,33,82.5,Certified
+302,Student_302,32,80.0,Certified
+303,Student_303,32,80.0,Certified
+304,Student_304,31,77.5,Not Certified
+305,Student_305,29,72.5,Not Certified
+306,Student_306,34,85.0,Certified
+307,Student_307,33,82.5,Certified
+308,Student_308,36,90.0,Certified
+309,Student_309,34,85.0,Certified
+310,Student_310,30,75.0,Not Certified
+311,Student_311,34,85.0,Certified
+312,Student_312,35,87.5,Certified
+313,Student_313,31,77.5,Not Certified
+314,Student_314,30,75.0,Not Certified
+315,Student_315,33,82.5,Certified
+316,Student_316,32,80.0,Certified
+317,Student_317,27,67.5,Not Certified
+318,Student_318,34,85.0,Certified
+319,Student_319,34,85.0,Certified
+320,Student_320,31,77.5,Not Certified
+321,Student_321,34,85.0,Certified
+322,Student_322,35,87.5,Certified
+323,Student_323,31,77.5,Not Certified
+324,Student_324,32,80.0,Certified
+325,Student_325,32,80.0,Certified
+326,Student_326,35,87.5,Certified
+327,Student_327,32,80.0,Certified
+328,Student_328,36,90.0,Certified
+329,Student_329,25,62.5,Not Certified
+330,Student_330,36,90.0,Certified
+331,Student_331,33,82.5,Certified
+332,Student_332,34,85.0,Certified
+333,Student_333,33,82.5,Certified
+334,Student_334,33,82.5,Certified
+335,Student_335,31,77.5,Not Certified
+336,Student_336,31,77.5,Not Certified
+337,Student_337,28,70.0,Not Certified
+338,Student_338,22,55.00000000000001,Not Certified
+339,Student_339,29,72.5,Not Certified
+340,Student_340,34,85.0,Certified
+341,Student_341,29,72.5,Not Certified
+342,Student_342,34,85.0,Certified
+343,Student_343,31,77.5,Not Certified
+344,Student_344,31,77.5,Not Certified
+345,Student_345,34,85.0,Certified
+346,Student_346,34,85.0,Certified
+347,Student_347,29,72.5,Not Certified
+348,Student_348,27,67.5,Not Certified
+349,Student_349,34,85.0,Certified
+350,Student_350,32,80.0,Certified
+351,Student_351,36,90.0,Certified
+352,Student_352,32,80.0,Certified
+353,Student_353,26,65.0,Not Certified
+354,Student_354,35,87.5,Certified
+355,Student_355,34,85.0,Certified
+356,Student_356,30,75.0,Not Certified
+357,Student_357,32,80.0,Certified
+358,Student_358,34,85.0,Certified
+359,Student_359,32,80.0,Certified
+360,Student_360,32,80.0,Certified
+361,Student_361,29,72.5,Not Certified
+362,Student_362,25,62.5,Not Certified
+363,Student_363,29,72.5,Not Certified
+364,Student_364,29,72.5,Not Certified
+365,Student_365,34,85.0,Certified
+366,Student_366,31,77.5,Not Certified
+367,Student_367,31,77.5,Not Certified
+368,Student_368,34,85.0,Certified
+369,Student_369,29,72.5,Not Certified
+370,Student_370,30,75.0,Not Certified
+371,Student_371,34,85.0,Certified
+372,Student_372,31,77.5,Not Certified
+373,Student_373,32,80.0,Certified
+374,Student_374,32,80.0,Certified
+375,Student_375,30,75.0,Not Certified
+376,Student_376,25,62.5,Not Certified
+377,Student_377,33,82.5,Certified
+378,Student_378,32,80.0,Certified
+379,Student_379,33,82.5,Certified
+380,Student_380,34,85.0,Certified
+381,Student_381,28,70.0,Not Certified
+382,Student_382,35,87.5,Certified
+383,Student_383,35,87.5,Certified
+384,Student_384,33,82.5,Certified
+385,Student_385,32,80.0,Certified
+386,Student_386,29,72.5,Not Certified
+387,Student_387,31,77.5,Not Certified
+388,Student_388,35,87.5,Certified
+389,Student_389,30,75.0,Not Certified
+390,Student_390,30,75.0,Not Certified
+391,Student_391,29,72.5,Not Certified
+392,Student_392,34,85.0,Certified
+393,Student_393,36,90.0,Certified
+394,Student_394,32,80.0,Certified
+395,Student_395,30,75.0,Not Certified
+396,Student_396,33,82.5,Certified
+397,Student_397,34,85.0,Certified
+398,Student_398,36,90.0,Certified
+399,Student_399,35,87.5,Certified
+400,Student_400,29,72.5,Not Certified
+401,Student_401,32,80.0,Certified
+402,Student_402,32,80.0,Certified
+403,Student_403,31,77.5,Not Certified
+404,Student_404,31,77.5,Not Certified
+405,Student_405,34,85.0,Certified
+406,Student_406,34,85.0,Certified
+407,Student_407,32,80.0,Certified
+408,Student_408,36,90.0,Certified
+409,Student_409,33,82.5,Certified
+410,Student_410,33,82.5,Certified
+411,Student_411,32,80.0,Certified
+412,Student_412,34,85.0,Certified
+413,Student_413,30,75.0,Not Certified
+414,Student_414,32,80.0,Certified
+415,Student_415,31,77.5,Not Certified
+416,Student_416,35,87.5,Certified
+417,Student_417,31,77.5,Not Certified
+418,Student_418,30,75.0,Not Certified
+419,Student_419,32,80.0,Certified
+420,Student_420,33,82.5,Certified
+421,Student_421,30,75.0,Not Certified
+422,Student_422,27,67.5,Not Certified
+423,Student_423,32,80.0,Certified
+424,Student_424,28,70.0,Not Certified
+425,Student_425,33,82.5,Certified
+426,Student_426,31,77.5,Not Certified
+427,Student_427,32,80.0,Certified
+428,Student_428,29,72.5,Not Certified
+429,Student_429,29,72.5,Not Certified
+430,Student_430,32,80.0,Certified
+431,Student_431,27,67.5,Not Certified
+432,Student_432,27,67.5,Not Certified
+433,Student_433,36,90.0,Certified
+434,Student_434,29,72.5,Not Certified
+435,Student_435,33,82.5,Certified
+436,Student_436,35,87.5,Certified
+437,Student_437,35,87.5,Certified
+438,Student_438,34,85.0,Certified
+439,Student_439,37,92.5,Certified
+440,Student_440,37,92.5,Certified
+441,Student_441,34,85.0,Certified
+442,Student_442,34,85.0,Certified
+443,Student_443,32,80.0,Certified
+444,Student_444,31,77.5,Not Certified
+445,Student_445,32,80.0,Certified
+446,Student_446,30,75.0,Not Certified
+447,Student_447,33,82.5,Certified
+448,Student_448,32,80.0,Certified
+449,Student_449,28,70.0,Not Certified
+450,Student_450,36,90.0,Certified
+451,Student_451,27,67.5,Not Certified
+452,Student_452,34,85.0,Certified
+453,Student_453,34,85.0,Certified
+454,Student_454,31,77.5,Not Certified
+455,Student_455,37,92.5,Certified
+456,Student_456,27,67.5,Not Certified
+457,Student_457,33,82.5,Certified
+458,Student_458,33,82.5,Certified
+459,Student_459,30,75.0,Not Certified
+460,Student_460,32,80.0,Certified
+461,Student_461,32,80.0,Certified
+462,Student_462,28,70.0,Not Certified
+463,Student_463,32,80.0,Certified
+464,Student_464,33,82.5,Certified
+465,Student_465,35,87.5,Certified
+466,Student_466,32,80.0,Certified
+467,Student_467,32,80.0,Certified
+468,Student_468,32,80.0,Certified
+469,Student_469,33,82.5,Certified
+470,Student_470,34,85.0,Certified
+471,Student_471,38,95.0,Certified
+472,Student_472,34,85.0,Certified
+473,Student_473,33,82.5,Certified
+474,Student_474,31,77.5,Not Certified
+475,Student_475,30,75.0,Not Certified
+476,Student_476,31,77.5,Not Certified
+477,Student_477,35,87.5,Certified
+478,Student_478,32,80.0,Certified
+479,Student_479,31,77.5,Not Certified
+480,Student_480,32,80.0,Certified
+481,Student_481,34,85.0,Certified
+482,Student_482,35,87.5,Certified
+483,Student_483,36,90.0,Certified
+484,Student_484,30,75.0,Not Certified
+485,Student_485,32,80.0,Certified
+486,Student_486,30,75.0,Not Certified
+487,Student_487,29,72.5,Not Certified
+488,Student_488,35,87.5,Certified
+489,Student_489,32,80.0,Certified
+490,Student_490,30,75.0,Not Certified
+491,Student_491,33,82.5,Certified
+492,Student_492,29,72.5,Not Certified
+493,Student_493,33,82.5,Certified
+494,Student_494,29,72.5,Not Certified
+495,Student_495,27,67.5,Not Certified
+496,Student_496,30,75.0,Not Certified
+497,Student_497,33,82.5,Certified
+498,Student_498,32,80.0,Certified
+499,Student_499,33,82.5,Certified
+500,Student_500,36,90.0,Certified
+501,Student_501,33,82.5,Certified
+502,Student_502,34,85.0,Certified
+503,Student_503,32,80.0,Certified
+504,Student_504,31,77.5,Not Certified
+505,Student_505,33,82.5,Certified
+506,Student_506,35,87.5,Certified
+507,Student_507,32,80.0,Certified
+508,Student_508,29,72.5,Not Certified
+509,Student_509,33,82.5,Certified
+510,Student_510,26,65.0,Not Certified
+511,Student_511,33,82.5,Certified
+512,Student_512,32,80.0,Certified
+513,Student_513,36,90.0,Certified
+514,Student_514,29,72.5,Not Certified
+515,Student_515,34,85.0,Certified
+516,Student_516,30,75.0,Not Certified
+517,Student_517,31,77.5,Not Certified
+518,Student_518,33,82.5,Certified
+519,Student_519,26,65.0,Not Certified
+520,Student_520,34,85.0,Certified
+521,Student_521,26,65.0,Not Certified
+522,Student_522,34,85.0,Certified
+523,Student_523,29,72.5,Not Certified
+524,Student_524,33,82.5,Certified
+525,Student_525,32,80.0,Certified
+526,Student_526,31,77.5,Not Certified
+527,Student_527,34,85.0,Certified
+528,Student_528,33,82.5,Certified
+529,Student_529,28,70.0,Not Certified
+530,Student_530,29,72.5,Not Certified
+531,Student_531,33,82.5,Certified
+532,Student_532,36,90.0,Certified
+533,Student_533,36,90.0,Certified
+534,Student_534,31,77.5,Not Certified
+535,Student_535,29,72.5,Not Certified
+536,Student_536,33,82.5,Certified
+537,Student_537,34,85.0,Certified
+538,Student_538,34,85.0,Certified
+539,Student_539,33,82.5,Certified
+540,Student_540,33,82.5,Certified
+541,Student_541,30,75.0,Not Certified
+542,Student_542,32,80.0,Certified
+543,Student_543,35,87.5,Certified
+544,Student_544,34,85.0,Certified
+545,Student_545,28,70.0,Not Certified
+546,Student_546,28,70.0,Not Certified
+547,Student_547,35,87.5,Certified
+548,Student_548,34,85.0,Certified
+549,Student_549,35,87.5,Certified
+550,Student_550,35,87.5,Certified
+551,Student_551,33,82.5,Certified
+552,Student_552,31,77.5,Not Certified
+553,Student_553,28,70.0,Not Certified
+554,Student_554,32,80.0,Certified
+555,Student_555,30,75.0,Not Certified
+556,Student_556,35,87.5,Certified
+557,Student_557,33,82.5,Certified
+558,Student_558,33,82.5,Certified
+559,Student_559,32,80.0,Certified
+560,Student_560,30,75.0,Not Certified
+561,Student_561,34,85.0,Certified
+562,Student_562,31,77.5,Not Certified
+563,Student_563,34,85.0,Certified
+564,Student_564,31,77.5,Not Certified
+565,Student_565,32,80.0,Certified
+566,Student_566,29,72.5,Not Certified
+567,Student_567,34,85.0,Certified
+568,Student_568,24,60.0,Not Certified
+569,Student_569,33,82.5,Certified
+570,Student_570,30,75.0,Not Certified
+571,Student_571,32,80.0,Certified
+572,Student_572,37,92.5,Certified
+573,Student_573,33,82.5,Certified
+574,Student_574,31,77.5,Not Certified
+575,Student_575,31,77.5,Not Certified
+576,Student_576,30,75.0,Not Certified
+577,Student_577,32,80.0,Certified
+578,Student_578,30,75.0,Not Certified
+579,Student_579,34,85.0,Certified
+580,Student_580,32,80.0,Certified
+581,Student_581,32,80.0,Certified
+582,Student_582,34,85.0,Certified
+583,Student_583,29,72.5,Not Certified
+584,Student_584,32,80.0,Certified
+585,Student_585,33,82.5,Certified
+586,Student_586,36,90.0,Certified
+587,Student_587,29,72.5,Not Certified
+588,Student_588,25,62.5,Not Certified
+589,Student_589,36,90.0,Certified
+590,Student_590,36,90.0,Certified
+591,Student_591,31,77.5,Not Certified
+592,Student_592,32,80.0,Certified
+593,Student_593,33,82.5,Certified
+594,Student_594,33,82.5,Certified
+595,Student_595,29,72.5,Not Certified
+596,Student_596,32,80.0,Certified
+597,Student_597,29,72.5,Not Certified
+598,Student_598,34,85.0,Certified
+599,Student_599,31,77.5,Not Certified
+600,Student_600,32,80.0,Certified
+601,Student_601,28,70.0,Not Certified
+602,Student_602,29,72.5,Not Certified
+603,Student_603,32,80.0,Certified
+604,Student_604,34,85.0,Certified
+605,Student_605,35,87.5,Certified
+606,Student_606,33,82.5,Certified
+607,Student_607,32,80.0,Certified
+608,Student_608,31,77.5,Not Certified
+609,Student_609,35,87.5,Certified
+610,Student_610,33,82.5,Certified
+611,Student_611,32,80.0,Certified
+612,Student_612,33,82.5,Certified
+613,Student_613,34,85.0,Certified
+614,Student_614,32,80.0,Certified
+615,Student_615,31,77.5,Not Certified
+616,Student_616,29,72.5,Not Certified
+617,Student_617,32,80.0,Certified
+618,Student_618,30,75.0,Not Certified
+619,Student_619,32,80.0,Certified
+620,Student_620,30,75.0,Not Certified
+621,Student_621,26,65.0,Not Certified
+622,Student_622,34,85.0,Certified
+623,Student_623,34,85.0,Certified
+624,Student_624,30,75.0,Not Certified
+625,Student_625,37,92.5,Certified
+626,Student_626,33,82.5,Certified
+627,Student_627,34,85.0,Certified
+628,Student_628,30,75.0,Not Certified
+629,Student_629,35,87.5,Certified
+630,Student_630,35,87.5,Certified
+631,Student_631,32,80.0,Certified
+632,Student_632,33,82.5,Certified
+633,Student_633,28,70.0,Not Certified
+634,Student_634,29,72.5,Not Certified
+635,Student_635,30,75.0,Not Certified
+636,Student_636,34,85.0,Certified
+637,Student_637,32,80.0,Certified
+638,Student_638,34,85.0,Certified
+639,Student_639,32,80.0,Certified
+640,Student_640,31,77.5,Not Certified
+641,Student_641,32,80.0,Certified
+642,Student_642,30,75.0,Not Certified
+643,Student_643,31,77.5,Not Certified
+644,Student_644,32,80.0,Certified
+645,Student_645,30,75.0,Not Certified
+646,Student_646,33,82.5,Certified
+647,Student_647,35,87.5,Certified
+648,Student_648,30,75.0,Not Certified
+649,Student_649,27,67.5,Not Certified
+650,Student_650,34,85.0,Certified
+651,Student_651,33,82.5,Certified
+652,Student_652,33,82.5,Certified
+653,Student_653,32,80.0,Certified
+654,Student_654,28,70.0,Not Certified
+655,Student_655,32,80.0,Certified
+656,Student_656,30,75.0,Not Certified
+657,Student_657,30,75.0,Not Certified
+658,Student_658,33,82.5,Certified
+659,Student_659,35,87.5,Certified
+660,Student_660,30,75.0,Not Certified
+661,Student_661,31,77.5,Not Certified
+662,Student_662,35,87.5,Certified
+663,Student_663,29,72.5,Not Certified
+664,Student_664,27,67.5,Not Certified
+665,Student_665,32,80.0,Certified
+666,Student_666,29,72.5,Not Certified
+667,Student_667,31,77.5,Not Certified
+668,Student_668,33,82.5,Certified
+669,Student_669,32,80.0,Certified
+670,Student_670,32,80.0,Certified
+671,Student_671,28,70.0,Not Certified
+672,Student_672,33,82.5,Certified
+673,Student_673,34,85.0,Certified
+674,Student_674,33,82.5,Certified
+675,Student_675,32,80.0,Certified
+676,Student_676,32,80.0,Certified
+677,Student_677,32,80.0,Certified
+678,Student_678,25,62.5,Not Certified
+679,Student_679,30,75.0,Not Certified
+680,Student_680,28,70.0,Not Certified
+681,Student_681,33,82.5,Certified
+682,Student_682,34,85.0,Certified
+683,Student_683,31,77.5,Not Certified
+684,Student_684,35,87.5,Certified
+685,Student_685,32,80.0,Certified
+686,Student_686,37,92.5,Certified
+687,Student_687,33,82.5,Certified
+688,Student_688,33,82.5,Certified
+689,Student_689,30,75.0,Not Certified
+690,Student_690,33,82.5,Certified
+691,Student_691,32,80.0,Certified
+692,Student_692,34,85.0,Certified
+693,Student_693,32,80.0,Certified
+694,Student_694,32,80.0,Certified
+695,Student_695,33,82.5,Certified
+696,Student_696,33,82.5,Certified
+697,Student_697,33,82.5,Certified
+698,Student_698,35,87.5,Certified
+699,Student_699,32,80.0,Certified
+700,Student_700,34,85.0,Certified
+701,Student_701,34,85.0,Certified
+702,Student_702,29,72.5,Not Certified
+703,Student_703,29,72.5,Not Certified
+704,Student_704,32,80.0,Certified
+705,Student_705,33,82.5,Certified
+706,Student_706,32,80.0,Certified
+707,Student_707,33,82.5,Certified
+708,Student_708,28,70.0,Not Certified
+709,Student_709,34,85.0,Certified
+710,Student_710,35,87.5,Certified
+711,Student_711,31,77.5,Not Certified
+712,Student_712,36,90.0,Certified
+713,Student_713,33,82.5,Certified
+714,Student_714,29,72.5,Not Certified
+715,Student_715,32,80.0,Certified
+716,Student_716,29,72.5,Not Certified
+717,Student_717,29,72.5,Not Certified
+718,Student_718,33,82.5,Certified
+719,Student_719,32,80.0,Certified
+720,Student_720,31,77.5,Not Certified
+721,Student_721,31,77.5,Not Certified
+722,Student_722,35,87.5,Certified
+723,Student_723,32,80.0,Certified
+724,Student_724,31,77.5,Not Certified
+725,Student_725,33,82.5,Certified
+726,Student_726,31,77.5,Not Certified
+727,Student_727,34,85.0,Certified
+728,Student_728,31,77.5,Not Certified
+729,Student_729,30,75.0,Not Certified
+730,Student_730,30,75.0,Not Certified
+731,Student_731,32,80.0,Certified
+732,Student_732,32,80.0,Certified
+733,Student_733,32,80.0,Certified
+734,Student_734,29,72.5,Not Certified
+735,Student_735,32,80.0,Certified
+736,Student_736,34,85.0,Certified
+737,Student_737,36,90.0,Certified
+738,Student_738,33,82.5,Certified
+739,Student_739,36,90.0,Certified
+740,Student_740,29,72.5,Not Certified
+741,Student_741,34,85.0,Certified
+742,Student_742,27,67.5,Not Certified
+743,Student_743,34,85.0,Certified
+744,Student_744,27,67.5,Not Certified
+745,Student_745,31,77.5,Not Certified
+746,Student_746,29,72.5,Not Certified
+747,Student_747,33,82.5,Certified
+748,Student_748,34,85.0,Certified
+749,Student_749,33,82.5,Certified
+750,Student_750,36,90.0,Certified
+751,Student_751,30,75.0,Not Certified
+752,Student_752,29,72.5,Not Certified
+753,Student_753,30,75.0,Not Certified
+754,Student_754,34,85.0,Certified
+755,Student_755,31,77.5,Not Certified
+756,Student_756,36,90.0,Certified
+757,Student_757,28,70.0,Not Certified
+758,Student_758,34,85.0,Certified
+759,Student_759,29,72.5,Not Certified
+760,Student_760,37,92.5,Certified
+761,Student_761,30,75.0,Not Certified
+762,Student_762,30,75.0,Not Certified
+763,Student_763,28,70.0,Not Certified
+764,Student_764,25,62.5,Not Certified
+765,Student_765,29,72.5,Not Certified
+766,Student_766,33,82.5,Certified
+767,Student_767,31,77.5,Not Certified
+768,Student_768,29,72.5,Not Certified
+769,Student_769,31,77.5,Not Certified
+770,Student_770,31,77.5,Not Certified
+771,Student_771,30,75.0,Not Certified
+772,Student_772,30,75.0,Not Certified
+773,Student_773,37,92.5,Certified
+774,Student_774,35,87.5,Certified
+775,Student_775,32,80.0,Certified
+776,Student_776,35,87.5,Certified
+777,Student_777,35,87.5,Certified
+778,Student_778,35,87.5,Certified
+779,Student_779,30,75.0,Not Certified
+780,Student_780,34,85.0,Certified
+781,Student_781,32,80.0,Certified
+782,Student_782,34,85.0,Certified
+783,Student_783,29,72.5,Not Certified
+784,Student_784,30,75.0,Not Certified
+785,Student_785,31,77.5,Not Certified
+786,Student_786,32,80.0,Certified
+787,Student_787,34,85.0,Certified
+788,Student_788,27,67.5,Not Certified
+789,Student_789,30,75.0,Not Certified
+790,Student_790,36,90.0,Certified
+791,Student_791,34,85.0,Certified
+792,Student_792,33,82.5,Certified
+793,Student_793,37,92.5,Certified
+794,Student_794,33,82.5,Certified
+795,Student_795,33,82.5,Certified
+796,Student_796,33,82.5,Certified
+797,Student_797,31,77.5,Not Certified
+798,Student_798,29,72.5,Not Certified
+799,Student_799,32,80.0,Certified
+800,Student_800,31,77.5,Not Certified
+801,Student_801,35,87.5,Certified
+802,Student_802,31,77.5,Not Certified
+803,Student_803,31,77.5,Not Certified
+804,Student_804,34,85.0,Certified
+805,Student_805,28,70.0,Not Certified
+806,Student_806,33,82.5,Certified
+807,Student_807,36,90.0,Certified
+808,Student_808,34,85.0,Certified
+809,Student_809,34,85.0,Certified
+810,Student_810,33,82.5,Certified
+811,Student_811,30,75.0,Not Certified
+812,Student_812,28,70.0,Not Certified
+813,Student_813,33,82.5,Certified
+814,Student_814,30,75.0,Not Certified
+815,Student_815,33,82.5,Certified
+816,Student_816,32,80.0,Certified
+817,Student_817,33,82.5,Certified
+818,Student_818,32,80.0,Certified
+819,Student_819,35,87.5,Certified
+820,Student_820,29,72.5,Not Certified
+821,Student_821,32,80.0,Certified
+822,Student_822,26,65.0,Not Certified
+823,Student_823,31,77.5,Not Certified
+824,Student_824,33,82.5,Certified
+825,Student_825,29,72.5,Not Certified
+826,Student_826,31,77.5,Not Certified
+827,Student_827,35,87.5,Certified
+828,Student_828,33,82.5,Certified
+829,Student_829,30,75.0,Not Certified
+830,Student_830,29,72.5,Not Certified
+831,Student_831,32,80.0,Certified
+832,Student_832,33,82.5,Certified
+833,Student_833,36,90.0,Certified
+834,Student_834,33,82.5,Certified
+835,Student_835,36,90.0,Certified
+836,Student_836,31,77.5,Not Certified
+837,Student_837,36,90.0,Certified
+838,Student_838,32,80.0,Certified
+839,Student_839,33,82.5,Certified
+840,Student_840,34,85.0,Certified
+841,Student_841,32,80.0,Certified
+842,Student_842,36,90.0,Certified
+843,Student_843,35,87.5,Certified
+844,Student_844,30,75.0,Not Certified
+845,Student_845,35,87.5,Certified
+846,Student_846,31,77.5,Not Certified
+847,Student_847,27,67.5,Not Certified
+848,Student_848,35,87.5,Certified
+849,Student_849,32,80.0,Certified
+850,Student_850,33,82.5,Certified
+851,Student_851,31,77.5,Not Certified
+852,Student_852,30,75.0,Not Certified
+853,Student_853,29,72.5,Not Certified
+854,Student_854,26,65.0,Not Certified
+855,Student_855,33,82.5,Certified
+856,Student_856,33,82.5,Certified
+857,Student_857,33,82.5,Certified
+858,Student_858,32,80.0,Certified
+859,Student_859,33,82.5,Certified
+860,Student_860,33,82.5,Certified
+861,Student_861,31,77.5,Not Certified
+862,Student_862,32,80.0,Certified
+863,Student_863,30,75.0,Not Certified
+864,Student_864,35,87.5,Certified
+865,Student_865,30,75.0,Not Certified
+866,Student_866,33,82.5,Certified
+867,Student_867,33,82.5,Certified
+868,Student_868,36,90.0,Certified
+869,Student_869,30,75.0,Not Certified
+870,Student_870,31,77.5,Not Certified
+871,Student_871,32,80.0,Certified
+872,Student_872,30,75.0,Not Certified
+873,Student_873,35,87.5,Certified
+874,Student_874,35,87.5,Certified
+875,Student_875,33,82.5,Certified
+876,Student_876,28,70.0,Not Certified
+877,Student_877,31,77.5,Not Certified
+878,Student_878,34,85.0,Certified
+879,Student_879,31,77.5,Not Certified
+880,Student_880,30,75.0,Not Certified
+881,Student_881,30,75.0,Not Certified
+882,Student_882,32,80.0,Certified
+883,Student_883,33,82.5,Certified
+884,Student_884,32,80.0,Certified
+885,Student_885,34,85.0,Certified
+886,Student_886,33,82.5,Certified
+887,Student_887,33,82.5,Certified
+888,Student_888,33,82.5,Certified
+889,Student_889,32,80.0,Certified
+890,Student_890,30,75.0,Not Certified
+891,Student_891,33,82.5,Certified
+892,Student_892,31,77.5,Not Certified
+893,Student_893,33,82.5,Certified
+894,Student_894,35,87.5,Certified
+895,Student_895,35,87.5,Certified
+896,Student_896,30,75.0,Not Certified
+897,Student_897,29,72.5,Not Certified
+898,Student_898,34,85.0,Certified
+899,Student_899,34,85.0,Certified
+900,Student_900,31,77.5,Not Certified
+901,Student_901,35,87.5,Certified
+902,Student_902,38,95.0,Certified
+903,Student_903,33,82.5,Certified
+904,Student_904,36,90.0,Certified
+905,Student_905,31,77.5,Not Certified
+906,Student_906,34,85.0,Certified
+907,Student_907,30,75.0,Not Certified
+908,Student_908,34,85.0,Certified
+909,Student_909,31,77.5,Not Certified
+910,Student_910,35,87.5,Certified
+911,Student_911,35,87.5,Certified
+912,Student_912,31,77.5,Not Certified
+913,Student_913,31,77.5,Not Certified
+914,Student_914,33,82.5,Certified
+915,Student_915,32,80.0,Certified
+916,Student_916,34,85.0,Certified
+917,Student_917,30,75.0,Not Certified
+918,Student_918,30,75.0,Not Certified
+919,Student_919,32,80.0,Certified
+920,Student_920,28,70.0,Not Certified
+921,Student_921,34,85.0,Certified
+922,Student_922,34,85.0,Certified
+923,Student_923,35,87.5,Certified
+924,Student_924,31,77.5,Not Certified
+925,Student_925,29,72.5,Not Certified
+926,Student_926,33,82.5,Certified
+927,Student_927,34,85.0,Certified
+928,Student_928,35,87.5,Certified
+929,Student_929,33,82.5,Certified
+930,Student_930,31,77.5,Not Certified
+931,Student_931,34,85.0,Certified
+932,Student_932,30,75.0,Not Certified
+933,Student_933,31,77.5,Not Certified
+934,Student_934,31,77.5,Not Certified
+935,Student_935,33,82.5,Certified
+936,Student_936,30,75.0,Not Certified
+937,Student_937,33,82.5,Certified
+938,Student_938,35,87.5,Certified
+939,Student_939,34,85.0,Certified
+940,Student_940,31,77.5,Not Certified
+941,Student_941,28,70.0,Not Certified
+942,Student_942,34,85.0,Certified
+943,Student_943,31,77.5,Not Certified
+944,Student_944,33,82.5,Certified
+945,Student_945,31,77.5,Not Certified
+946,Student_946,32,80.0,Certified
+947,Student_947,33,82.5,Certified
+948,Student_948,32,80.0,Certified
+949,Student_949,31,77.5,Not Certified
+950,Student_950,28,70.0,Not Certified
+951,Student_951,30,75.0,Not Certified
+952,Student_952,35,87.5,Certified
+953,Student_953,33,82.5,Certified
+954,Student_954,36,90.0,Certified
+955,Student_955,31,77.5,Not Certified
+956,Student_956,31,77.5,Not Certified
+957,Student_957,31,77.5,Not Certified
+958,Student_958,36,90.0,Certified
+959,Student_959,30,75.0,Not Certified
+960,Student_960,33,82.5,Certified
+961,Student_961,32,80.0,Certified
+962,Student_962,33,82.5,Certified
+963,Student_963,26,65.0,Not Certified
+964,Student_964,34,85.0,Certified
+965,Student_965,32,80.0,Certified
+966,Student_966,34,85.0,Certified
+967,Student_967,31,77.5,Not Certified
+968,Student_968,34,85.0,Certified
+969,Student_969,37,92.5,Certified
+970,Student_970,33,82.5,Certified
+971,Student_971,34,85.0,Certified
+972,Student_972,29,72.5,Not Certified
+973,Student_973,31,77.5,Not Certified
+974,Student_974,30,75.0,Not Certified
+975,Student_975,31,77.5,Not Certified
+976,Student_976,29,72.5,Not Certified
+977,Student_977,33,82.5,Certified
+978,Student_978,29,72.5,Not Certified
+979,Student_979,35,87.5,Certified
+980,Student_980,32,80.0,Certified
